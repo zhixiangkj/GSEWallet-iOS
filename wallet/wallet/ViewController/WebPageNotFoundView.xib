@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="14460.31" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES" useSafeAreas="YES" colorMatched="YES">
+    <device id="retina4_7" orientation="portrait">
+        <adaptation id="fullscreen"/>
+    </device>
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="14460.20"/>
+        <capability name="Safe area layout guides" minToolsVersion="9.0"/>
+        <capability name="documents saved in the Xcode 8 format" minToolsVersion="8.0"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner" customClass="GSE_WebViewController">
+            <connections>
+                <outlet property="activityIndicatorView" destination="tqM-3h-Zhz" id="Esb-11-a5X"/>
+                <outlet property="pageNoFoundLabel" destination="Rgp-Mb-2Ev" id="80q-zR-H7d"/>
+            </connections>
+        </placeholder>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="bUs-lu-s30">
+            <rect key="frame" x="0.0" y="0.0" width="375" height="667"/>
+            <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
+            <subviews>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ptO-c5-GZ5">
+                    <rect key="frame" x="12" y="32" width="60" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="60" id="B0O-KY-dTD"/>
+                        <constraint firstAttribute="height" constant="40" id="eTW-TR-uhC"/>
+                    </constraints>
+                    <state key="normal" title="关闭"/>
+                    <connections>
+                        <action selector="handleCloseButtonTapped:" destination="-1" eventType="touchUpInside" id="AAI-iY-xwa"/>
+                    </connections>
+                </button>
+                <button opaque="NO" contentMode="scaleToFill" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="roundedRect" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="weT-iO-gb6">
+                    <rect key="frame" x="303" y="32" width="60" height="40"/>
+                    <constraints>
+                        <constraint firstAttribute="width" constant="60" id="Sd5-2U-WxK"/>
+                        <constraint firstAttribute="height" constant="40" id="Vcg-f6-4p4"/>
+                    </constraints>
+                    <state key="normal" title="刷新"/>
+                    <connections>
+                        <action selector="handkeRefreshButtonTapped:" destination="-1" eventType="touchUpInside" id="6Tz-DU-SDZ"/>
+                    </connections>
+                </button>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Page not found" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rgp-Mb-2Ev">
+                    <rect key="frame" x="52" y="309.5" width="271" height="48"/>
+                    <fontDescription key="fontDescription" type="system" weight="semibold" pointSize="40"/>
+                    <nil key="textColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <activityIndicatorView opaque="NO" contentMode="scaleToFill" horizontalHuggingPriority="750" verticalHuggingPriority="750" style="gray" translatesAutoresizingMaskIntoConstraints="NO" id="tqM-3h-Zhz">
+                    <rect key="frame" x="157.5" y="303.5" width="60" height="60"/>
+                    <constraints>
+                        <constraint firstAttribute="width" relation="greaterThanOrEqual" constant="60" id="5sc-Ga-mVL"/>
+                        <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="60" id="I39-BI-ElF"/>
+                    </constraints>
+                </activityIndicatorView>
+            </subviews>
+            <color key="backgroundColor" white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+            <constraints>
+                <constraint firstItem="ptO-c5-GZ5" firstAttribute="top" secondItem="KwD-EV-IDU" secondAttribute="top" constant="12" id="Dlo-fn-RVa"/>
+                <constraint firstItem="weT-iO-gb6" firstAttribute="centerY" secondItem="ptO-c5-GZ5" secondAttribute="centerY" id="OV2-oq-212"/>
+                <constraint firstItem="KwD-EV-IDU" firstAttribute="trailing" secondItem="weT-iO-gb6" secondAttribute="trailing" constant="12" id="YLa-9p-qao"/>
+                <constraint firstItem="Rgp-Mb-2Ev" firstAttribute="centerX" secondItem="bUs-lu-s30" secondAttribute="centerX" id="chR-z6-ps2"/>
+                <constraint firstItem="tqM-3h-Zhz" firstAttribute="centerY" secondItem="bUs-lu-s30" secondAttribute="centerY" id="dks-9o-nk6"/>
+                <constraint firstItem="ptO-c5-GZ5" firstAttribute="leading" secondItem="KwD-EV-IDU" secondAttribute="leading" constant="12" id="q1a-Ne-0c3"/>
+                <constraint firstItem="tqM-3h-Zhz" firstAttribute="centerX" secondItem="bUs-lu-s30" secondAttribute="centerX" id="sNu-30-N8Y"/>
+                <constraint firstItem="Rgp-Mb-2Ev" firstAttribute="centerY" secondItem="bUs-lu-s30" secondAttribute="centerY" id="zap-Mk-30a"/>
+            </constraints>
+            <viewLayoutGuide key="safeArea" id="KwD-EV-IDU"/>
+            <point key="canvasLocation" x="213.59999999999999" y="-293.70314842578711"/>
+        </view>
+    </objects>
+</document>

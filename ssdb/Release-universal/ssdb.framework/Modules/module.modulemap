@@ -1,0 +1,6 @@
+framework module ssdb {
+  umbrella header "ssdb.h"
+
+  export *
+  module * { export * }
+}

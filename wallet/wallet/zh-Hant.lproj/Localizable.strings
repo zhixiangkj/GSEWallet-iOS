@@ -1,0 +1,270 @@
+/*
+ Localizable.strings
+ wallet
+ 
+ Created by user on 04/10/2018.
+ Copyright © 2018 VeslaChi. All rights reserved.
+ */
+
+
+"Crypto Currency Wallet" = "虛擬貨幣錢包";
+"Manage ERC20 tokens\nInclude major tokens on the market" = "管理所有ERC20的貨幣\n覆蓋市面上主流數位資產";
+"Asset Safety Guaranteed" = "安全無懈可擊";
+"Wallet access only belongs to you\nAsset is 100% safe" = "錢包不存儲任何帳戶許可權資訊\n資產安全100%保證";
+
+"Easy to Use" = "流程簡單易用";
+"No geeky design\nEveryone can use blockchain" = "告別複雜繁瑣的專業流程\n使用就像支付一樣簡單";
+
+"Create Wallet" = "創建錢包";
+"Import Wallet" = "導入錢包";
+"Please name your wallet" = "設定錢包名字";
+"Enter wallet password" = "設定錢包密碼";
+"Enter Wallet Password" = "輸入錢包密碼";
+"Confirm wallet password" = "確認錢包密碼";
+"at least 6 characters" = "至少 6 位";
+" weak " = "弱";
+"strong" = "强";
+"Password" = "密碼";
+"Agree to " = "我已經閱讀並同意";
+"I have read and agree to " = "我已經閱讀並同意";
+"Terms & Privacy Policy" = "服務條款和隱私政策";
+"Terms & Policy" = "服務條款和隱私政策";
+"Continue" = "繼續";
+"Next" = "下一步";
+"Import" = "導入";
+"Confirm" = "確認";
+"via Mnemonic" = "助記詞導入";
+"via Private Key" = "私鑰導入";
+"via Keystore" = "Keystore 導入";
+"Please input your mnemonic" = "輸入錢包助記詞";
+"Please input your mnemonic phrase" = "輸入錢包助記詞";
+"Please input your private key" = "輸入錢包私鑰";
+"Please input your keystore file" = "輸入錢包 Keystore 文件内容";
+"Keystore Password" = "Keystore 密碼";
+"Invalid Mnemonics" = "助記詞不正確";
+"Invalid Private Key" = "私鑰不正確";
+"Invalid Keystore" = "Keystore 不正確";
+"OK" = "好的";
+"Address already exists" = "錢包地址已存在";
+"please import another one" = "請導入另外一個地址";
+"Loading..." = "正在加載...";
+"loading" = "正在加載...";
+"Unlocking..." = "正在解鎖...";
+"Preparing..." = "正在處理...";
+"Complete" = "完成";
+"Copied" = "複製成功";
+"Wallet Address" = "錢包地址";
+"Success" = "成功";
+"Skip" = "跳過";
+"Done" = "完成";
+"Back Up Wallet" = "備份錢包";
+"Your Mnemonic Phrase" = "助記詞";
+"Your Private Key" = "私鑰";
+"Your Keystore" = "Keystore";
+"Please do not take screenshot!\nWrite down your mnemonic phrase on a paper\nand keep it in a safe place" = "請勿截屏！建議將助記詞抄寫到紙上\n並將它保存到一個安全的地方";
+"Please do not take screenshot!\nWrite down your private key on a paper\nand keep it in a safe place" = "請勿截屏！建議將助記詞抄寫到紙上\n並將它保存到一個安全的地方";
+"Please do not take screenshot!\nWrite down your keystore file on a paper\nand keep it in a safe place" = "請勿截屏！建議將助記詞抄寫到紙上\n並將它保存到一個安全的地方";
+"  Transfer" = "  轉出";
+"  Receive" = "  轉入";
+"Could not find transactions\nMaybe it's on da moon..." = "無交易歷史";
+"Please try again later" = "請稍候重試";
+"Something Wrong" = "出錯啦！";
+"Please use another wallet name" = "請換一个錢包名字";
+"Wallet name already exists" = "錢包名字已存在";
+"Please agree to Terms & Privacy Policy" = "請先閱讀並同意服務條款和隱私政策";
+"Agreement Required" = "需要同意協議";
+"Please input the same password to confirm" = "請輸入相同的密碼來確認";
+"Passwords don't match" = "密碼不一致";
+"Please input the password with at least 6 characters" = "請輸入至少6位密碼";
+"Password Length Required" = "密碼長度未達到要求";
+"Please input a wallet name and it should not be empty" = "請輸入錢包名，並且不能未空";
+"Wallet Name Needed" = "需要錢包名";
+"Please input the same password to confirm" = "請輸入相同的密碼進行確認";
+"Confirm wallet password" = "需要確認密碼";
+
+"Wallet" = "錢包";
+"Settings" = "設置";
+"Others" = "其它";
+"Cancel" = "取消";
+"Back Up Current Wallet" = "備份當前錢包";
+"Rename Current Wallet" = "重命名當前錢包";
+"Delete Current Wallet" = "刪除當前錢包";
+
+"About" = "關於";
+"Feedback / Support" = "反饋/支持";
+
+"Export Mnemonic Phase" = "導出助記詞";
+"Export Keystore" = "導出 Keystore";
+"Export Private Key" = "導出私鑰";
+
+"Total Assets" = "總資產";
+"My Wallets" = "我的錢包";
+
+"Current Wallet Address" = "當前錢包地址";
+"Current Wallet Name" = "當前錢包名稱";
+"Enter New Name" = "輸入新的名字";
+"Rename" = "重命名";
+"Renamed" = "已重命名";
+"Rename Wallet" = "重命名錢包";
+
+"Enter the transfer amount" = "輸入轉出數量";
+"Enter the destination address" = "輸入目的地址";
+
+"Share" = "分享";
+"Transfer" = "轉出";
+"Receive" = "轉入";
+"Tokens" = "貨幣";
+
+"You are about to back up wallet with keystore. Keystore gives you full access to a wallet and all its assets with a password." = "您即將用 Keystore 來備份您的錢包。Keystore 相當於錢包的憑證，可以憑密碼取得管理錢包和動用資產的全部權限。";
+
+"You are about to back up wallet with private key. Private key gives you full access to a wallet and all its assets." = "您即將用私鑰來備份您的錢包。私鑰相當於錢包的密碼，可以取得管理錢包和動用資產的全部權限。";
+
+"You are about to back up wallet with mnemonics. Mnemonics give you full access to a wallet and all its assets." = "您即將用助記詞來備份您的錢包。助記詞相當於錢包的密碼，可以取得管理錢包和動用資產的全部權限。";
+
+"You are about to remove the current\nwallet from this device. Please\nconfirm with your wallet password" = "您將從此設備移除當前的錢包，請輸入密碼進行確認，注意刪除後將無法還原";
+
+"Network Error" = "網絡錯誤";
+"Invalid Password" = "密碼錯誤";
+"Invalid gasPrice" = "gasPrice 錯誤";
+"Invalid gasLimit" = "gasLimit 錯誤";
+"Invalid Transfer Address" = "無效的轉出地址";
+"Invalid Transfer Amount" = "轉出數量錯誤";
+"Invalid Contract Address" = "合約地址錯誤";
+
+"Deleted" = "刪除成功";
+"Account will be locked for 1 hour after 5 failed attemps" = "賬戶將在 5 次失敗驗證後鎖定 1 小時";
+"Retry" = "重試";
+"Delete Wallet" = "刪除錢包";
+"Balance %@" = "餘額 %@";
+"Choose Token" = "選擇貨幣";
+"Transaction Fee" = "交易費用";
+"Fee" = "費用";
+"From" = "發送方";
+"To" = "接收方";
+"From " = "轉入自";
+"To " = "轉出到";
+"Time" = "時間";
+"Status" = "狀態";
+"Reference" = "引用";
+"TxHash" = "交易哈希";
+"Go Etherscan" = "在 Etherscan 查看";
+"Current market price" = "當前市場價格";
+"Slow" = "慢";
+"Fast" = "快";
+"Amount" = "數量";
+"QRCode Scan" = "掃碼";
+"Put the QR code in the middle of the camara" = "將二維碼置入上方中間部分";
+"Send" = "發送交易";
+"Sending..." = "發送中...";
+"Transaction Failed" = "交易失敗";
+"Transaction Confirmation" = "交易確認";
+"The Decentralized Trust Network for Sharing Economies" = "去中心化的共享經濟信用網絡";
+"Official Site" = "官方網站";
+"Telegram" = "電報";
+"Twitter" = "推特";
+"WeChat" = "微信";
+"WeChat " = "微信公眾號";
+"Should you need any assistance or have any feedback, please email us at" = "如果您需要任何幫助或有任何反饋，請發郵件聯繫我們：";
+"Feedback from GSE Wallet" = "GSE 錢包反饋";
+"Version" = "版本";
+"FAQ:" = "問與答：";
+"Created" = "創建成功";
+"Transaction Details" = "交易詳情";
+"Fee Estimation" = "預估費用";
+"Address Text" = "地址文本";
+"Address QRCode" = "地址二維碼";
+"Confirmation" = "交易確認";
+"Transaction Confirmed" = "交易已確認";
+
+" years " = "年";
+" year " = "年";
+" months " = "月";
+" month " = "月";
+
+" days " = "天";
+" day " = "天";
+
+" hours " = "小時";
+" hour " = "小時";
+
+" minutes " = "分鐘";
+" minute " = "分鐘";
+
+"Just now" = "剛剛";
+"ago" = "前";
+
+"days" = "天";
+"day" = "天";
+
+"hrs" = "小時";
+"hr" = "小時";
+
+"mins" = "分鐘";
+"min" = "分鐘";
+
+"Info" = "信息";
+"if you have any problem, write down below." = "如果您有任何問題或意見，請在此告知我們。";
+"Insufficient ETH balance" = "ETH 餘額不足";
+"Insufficient %@ balance" = "%@ 餘額不足";
+"Open WeChat" = "打開微信";
+"Save QRCode to Album" = "保存二維碼至相冊";
+"Copy TxHash" = "複製交易哈希";
+"Pending" = "等待確認";
+"Failed" = "失敗";
+"insufficient funds for gas * price + value" = "ETH 餘額不足";
+"insufficient funds for gas * price" = "ETH 餘額不足";
+"Block Confirmations" = "塊確認";
+"Dropped" = "被丟棄";
+"Sent" = "發送成功";
+
+"%@ Txn Success @ %@" = "%@交易成功@%@";
+"%@ Txn Success" = "%@交易成功";
+"%@ Transaction Success" = "%@交易成功";
+"Transaction Success: %@" = "交易成功：%@";
+"Txn Success: %@" = "交易成功：%@";
+"%@ Transfered Successfully @ %@" = "%@交易成功@%@";
+"%@ Transfered Successfully" = "%@交易成功";
+
+"Nonce" = "交易 Nonce";
+
+"Gas Rebate" = "免費活動";
+"GSE from Rebate" = "可返還的 GSE 數量";
+"WITHDRAW" = "  提現    ";
+"History" = "歷史";
+"Send Your Friends Gas Rebate" = "邀請朋友參與手續費返還活動";
+"Invite 2 friends, get 2 gas rebates everyday!\n(0/2)" = "邀請 2 個朋友，每天將得到 2 次返還機會\n(0/2)";
+"Invite %@ friends, get %@ gas rebates everyday!\n(%@/%@)" = "邀請 %@ 個朋友，每天將得到 %@ 次返還機會\n(%@/%@)";
+"How it works" = "活動規則";
+"Share Your Invitation Code" = "分享您的邀請碼";
+"Have a referral code?" = "擁有邀請碼？";
+"Enter it below to enjoy more free transfer\nand gas rebate!" = "在下面輸入邀請碼，然後開啟免費轉賬\n和手續費返還功能";
+"Invalid invitation code" = "無效的邀請碼";
+"Invalid Referral Code" = "無效的邀請碼";
+"Unlock Free Transfer" = "解鎖";
+"Referral code applied: %@" = "使用邀請碼：%@";
+"Remaining Gas Rebates: %@" = "剩餘免費轉賬次數：%@";
+"Get Gas Rebates" = "獲取免費轉賬機會";
+"100% Gas Rebated" = "100% 手續費已返還";
+"Gas fee is ETH transaction fee.\nReceive GSE as rebate for your\ngas fee." = "轉賬花費的 ETH 手續費將以相同價值的 GSE 進行返還。";
+"Withdraw GSE" = "GSE 提現";
+"GSE from Rebates" = "您現在可提現的 GSE 數量";
+"Destination Wallet" = "選擇轉入的錢包";
+"Minimum withdrawal: %@ GSE" = "提現數量不能低於 %@ GSE";
+"Withdraw" = "提現";
+"Select Wallet" = "選擇錢包";
+"My Gas Rebates" = "我的返還記錄";
+"Date" = "日期";
+"Source" = "來源";
+"Rebate" = "返還";
+"Withdraw Submitted" = "提交成功";
+"Withdraw Failed" = "提現失敗";
+"Wallet Required" = "需要先選中錢包";
+"Confirm to withdraw GSE rebates to Wallet %@?" = "確認提現 GSE 到錢包 %@ ？";
+"The GSE rebates will be sent to your\nselected wallet address in %@ days" = "提現的 GSE 將在 %@ 天內充值\n到您選中的錢包地址內";
+"Rebates will appear after you make transactions" = "無交易歷史";
+"I'm using an ETH wallet called GSE Wallet, you should get it because there is no transaction fee (Gas fee) if you use my invitation code %@ to transfer! Download from App Store https://itunes.apple.com/us/app/id1437511476?mt=8" = "我正在使用以太坊錢包 GSE Wallet，使用我的邀請碼：%@，轉賬無手續費。美區商店地址 https://itunes.apple.com/us/app/id1437511476?mt=8";
+"Gas Rebates Unlocked" = "免費轉賬功能已解鎖";
+"Congratulations, you have %@ gas rebates everyday!" = "恭喜，您每天將獲得 %@ 次免費轉賬機會！";
+"Enter wallet name" = "輸入錢包名字";
+"Change Token" = "切換貨幣";
+"Sharing Economy Reimagined with Blockchain" = "用區塊鏈重新定義共享經濟";

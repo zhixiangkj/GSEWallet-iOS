@@ -1,0 +1,270 @@
+/*
+ Localizable.strings
+ wallet
+ 
+ Created by user on 04/10/2018.
+ Copyright © 2018 VeslaChi. All rights reserved.
+ */
+
+
+"Crypto Currency Wallet" = "암호화폐 거래";
+"Manage ERC20 tokens\nInclude major tokens on the market" = "ERC20토큰 관리\n시장의 주요 토근 포함";
+"Asset Safety Guaranteed" = "자산 보안 보장";
+"Wallet access only belongs to you\nAsset is 100% safe" = "지갑 접속은 당신만 할 수 있습니다\n자산이 100% 안전합니다";
+
+"Easy to Use" = "사용이 편리함";
+"No geeky design\nEveryone can use blockchain" = "이상한 디자인 없음\n누구든 블록체인을 사용할 수 있음";
+
+"Create Wallet" = "지갑 생성하기";
+"Import Wallet" = "지갑 가져오기";
+"Please name your wallet" = "지갑 이름 설정";
+"Enter wallet password" = "비밀번호 설정";
+"Enter Wallet Password" = "비밀번호 설정";
+"Confirm wallet password" = "비밀번호 확인";
+"at least 6 characters" = "최소 6자리";
+" weak " = "약";
+"strong" = "강";
+"Password" = "비밀번호";
+"Agree to " = "동의";
+"I have read and agree to " = "읽었고 동의합니다";
+"Terms & Privacy Policy" = "이용약관 및 개인정보 정책";
+"Terms & Policy" = "이용약관";
+"Continue" = "계속";
+"Next" = "다음";
+"Import" = "가져오기";
+"Confirm" = "확인";
+"via Mnemonic" = "니모닉 가져오기";
+"via Private Key" = "개인키 가져오기";
+"via Keystore" = "키스토어 가져오기";
+"Please input your mnemonic" = "니모닉을 입력해주세요";
+"Please input your mnemonic phrase" = "니모닉을 입력해주세요";
+"Please input your private key" = "개인키를 입력해주세요";
+"Please input your keystore file" = "키스토어 파일을 적어주세요";
+"Keystore Password" = "키스토어 비밀번호";
+"Invalid Mnemonics" = "니모틱이 틀렸습니다";
+"Invalid Private Key" = "개인키가 틀렸습니다";
+"Invalid Keystore" = "키스토어가 틀렸습니다";
+"OK" = "확인";
+"Address already exists" = "지갑 주소가 이미 존재합니다";
+"please import another one" = "다른 주소를 가져오세요";
+"Loading..." = "로딩 중...";
+"loading" = "로딩 중...";
+"Unlocking..." = "여는 중...";
+"Preparing..." = "처리 중...";
+"Complete" = "완료";
+"Copied" = "복사 완료";
+"Wallet Address" = "지갑 주소";
+"Success" = "성공";
+"Skip" = "건너뛰기";
+"Done" = "완료";
+"Back Up Wallet" = "지갑 백업";
+"Your Mnemonic Phrase" = "니모닉 코드";
+"Your Private Key" = "개인키";
+"Your Keystore" = "키스토어";
+"Please do not take screenshot!\nWrite down your mnemonic phrase on a paper\nand keep it in a safe place" = "스크린샷을 찍지 마세요！\n니모닉 코드를 종이에 적으세요\n안전한 곳에 보관하세요";
+"Please do not take screenshot!\nWrite down your private key on a paper\nand keep it in a safe place" = "스크린샷을 찍지 마세요！\n개인키를 종이에 적으세요\n안전한 곳에 보관하세요";
+"Please do not take screenshot!\nWrite down your keystore file on a paper\nand keep it in a safe place" = "스크린샷을 찍지 마세요！\n키스토어를 종이에 적으세요\n안전한 곳에 보관하세요";
+"  Transfer" = "  출금";
+"  Receive" = "  입금";
+"Could not find transactions\nMaybe it's on da moon..." = "거래내역을 찾을 수 없습니다\n달에 있을수도...";
+"Please try again later" = "잠시 후 다시 시도해주세요";
+"Something Wrong" = "오류！";
+"Please use another wallet name" = "다른 지갑 이름을 사용해주세요";
+"Wallet name already exists" = "지갑 이름이 이미 존재합니다";
+"Please agree to Terms & Privacy Policy" = "이용약관 및 개인 정보 정책에 동의해주세요";
+"Agreement Required" = "동의 필요";
+"Please input the same password to confirm" = "확인을 위해 비밀번호를 다시 적어주세요";
+"Passwords don't match" = "비밀번호가 일치하지 않습니다";
+"Please input the password with at least 6 characters" = "최소 6자리 비밀번호를 적어주세요";
+"Password Length Required" = "비밀번호가 짧습니다";
+"Please input a wallet name and it should not be empty" = "지갑 이름을 적어주세요. 비어있으면 안됩니다";
+"Wallet Name Needed" = "지갑 이름 필요";
+"Please input the same password to confirm" = "확인을 위해 같은 비밀번호를 적어주세요";
+"Confirm wallet password" = "지갑 비밀번호 확인";
+
+"Wallet" = "지갑";
+"Settings" = "설정";
+"Others" = "기타";
+"Cancel" = "취소";
+"Back up Current Wallet" = "지갑 백업하기";
+"Rename Current Wallet" = "지갑 이름 변경하기";
+"Delete Current Wallet" = "지갑 이름 삭제하기";
+
+"About" = "회사 정보";
+"Feedback / Support" = "피드백/지원";
+
+"Export Mnemonic Phase" = "니모닉 코드 내보내기";
+"Export Keystore" = "키스토어 내보내기";
+"Export Private Key" = "기인키 내보내기";
+
+"Total Assets" = "총 자산";
+"My Wallets" = "내지갑";
+
+"Current Wallet Address" = "지갑 주소";
+"Current Wallet Name" = "지갑 이름";
+"Enter New Name" = "새이름 적기";
+"Rename" = "이름 변경";
+"Renamed" = "이름 변경됨";
+"Rename Wallet" = "지갑 이름 변경";
+
+"Enter the transfer amount" = "거래량 입력";
+"Enter the destination address" = "출금 주소 입력";
+
+"Share" = "공유";
+"Transfer" = "거래";
+"Receive" = "입금";
+"Tokens" = "토큰";
+
+"You are about to back up wallet with keystore. Keystore gives you full access to a wallet and all its assets with a password." = "키스토어를 백업하려고 합니다. 키스토어와 비밀번호가 있으면 지갑과 지갑내 자산에 대한 모든 권한이 주어집니다.";
+
+"You are about to back up wallet with private key. Private key gives you full access to a wallet and all its assets." = "개인키를 백업하려고 합니다. 개인키와 비밀번호가 있으면 지갑과 지갑내 자산에 대한 모든 권한이 주어집니다.";
+
+"You are about to back up wallet with mnemonics. Mnemonics give you full access to a wallet and all its assets." = "니모닉을 백업하려고 합니다. 니모닉 비밀번호가 있으면 지갑과 지갑내 자산에 대한 모든 권한이 주어집니다.";
+
+"You are about to remove the current\nwallet from this device. Please\nconfirm with your wallet password" = "이 지갑을 이 기기에서 삭제하려고 합니다\n지갑 비밀번호를 확인해주세요";
+
+"Network Error" = "네트워크 오류";
+"Invalid Password" = "비밀번호가 틀림";
+"Invalid gasPrice" = "개스 가격이 틀림";
+"Invalid gasLimit" = "개스 한도가 틀림";
+"Invalid Transfer Address" = "거래 주소가 틀림";
+"Invalid Transfer Amount" = "거래량이 틀림";
+"Invalid Contract Address" = "계약 주소가 틀림";
+
+"Deleted" = "삭제 성공";
+"Account will be locked for 1 hour after 5 failed attemps" = "5번 틀리면 1시간동안 계정이 잠깁니다";
+"Retry" = "다시시도";
+"Delete Wallet" = "지갑 삭제";
+"Balance %@" = "잔액 %@";
+"Choose Token" = "토큰 고르기";
+"Transaction Fee" = "거래 수수료";
+"Fee" = "비용";
+"From" = "보내는 주소";
+"To" = "받는 주소";
+"From " = "보내는 주소";
+"To " = "받는 주소";
+"Time" = "시간";
+"Status" = "상태";
+"Reference" = "참고사항";
+"TxHash" = "거래해시";
+"Go Etherscan" = "Etherscan에서 확인";
+"Current market price" = "현재 시장 가격";
+"Slow" = "느림";
+"Fast" = "빠름";
+"Amount" = "수량";
+"QRCode Scan" = "QR코드 스캔";
+"Put the QR code in the middle of the camara" = "QR코드를 카메라 중앙에 놓으세요";
+"Send" = "보내기";
+"Sending..." = "보내는 중";
+"Transaction Failed" = "거래 실패";
+"Transaction Confirmation" = "거래확인";
+"The Decentralized Trust Network for Sharing Economies" = "공유경제를 위한 탈중앙화 신용 네트워크";
+"Official Site" = "공식 사이트";
+"Telegram" = "텔레그램";
+"Twitter" = "트위터";
+"WeChat" = "위챗";
+"WeChat " = "위챗";
+"Should you need any assistance or have any feedback, please email us at" = "도움이 필요하거나 의견이 있으시면 이메일을 주세요";
+"Feedback from GSE Wallet" = "GSE지갑에 의견 보내기";
+"Version" = "버전";
+"FAQ:" = "FAQ：";
+"Created" = "생성완료";
+"Transaction Details" = "거래 내역";
+"Fee Estimation" = "예상 비용";
+"Address Text" = "지갑 텍스트";
+"Address QRCode" = "지갑 QR코드";
+"Confirmation" = "거래 확인";
+"Transaction Confirmed" = "거래 확인됨";
+
+" years " = "년";
+" year " = "년";
+" months " = "월";
+" month " = "월";
+
+" days " = "일";
+" day " = "일";
+
+" hours " = "시간";
+" hour " = "시간";
+
+" minutes " = "분";
+" minute " = "분";
+
+"Just now" = "방금";
+"ago" = "전";
+
+"days" = "일";
+"day" = "일";
+
+"hrs" = "시간";
+"hr" = "시간";
+
+"mins" = "분";
+"min" = "분";
+
+"Info" = "정보";
+"if you have any problem, write down below." = "문제 있으시면 아래에 적어주세요";
+"Insufficient ETH balance" = "ETH 잔액 부족";
+"Insufficient %@ balance" = "%@ 작액 부족";
+"Open WeChat" = "위챗 열기";
+"Save QRCode to Album" = "QR코드를 앨범에 저장";
+"Copy TxHash" = "거래해시 복사";
+"Pending" = "대기 중";
+"Failed" = "실패";
+"insufficient funds for gas * price + value" = "ETH 잔액 부족";
+"insufficient funds for gas * price" = "ETH 잔액 부족";
+"Block Confirmations" = "블록 확인서";
+"Dropped" = "떨어짐";
+"Sent" = "거래 성공";
+
+"%@ Txn Success @ %@" = "%@거래 성공@%@";
+"%@ Txn Success" = "%@거래 성공";
+"%@ Transaction Success" = "%@거래 성공";
+"Transaction Success: %@" = "거래 성공：%@";
+"Txn Success: %@" = "거래 성공：%@";
+"%@ Transfered Successfully @ %@" = "%@거래 성공@%@";
+"%@ Transfered Successfully" = "%@거래 성공";
+
+"Nonce" = "거래 Nonce";
+
+"Gas Rebate" = "가스 환급";
+"GSE from Rebate" = "환급 받은 GSE 수량";
+"WITHDRAW" = "  출금    ";
+"History" = "히스토리";
+"Send Your Friends Gas Rebate" = "친구들에게 가스 환급을 선물하세요";
+"Invite 2 friends, get 2 gas rebates everyday!\n(0/?)" = "친구 2명을 초대하고 2번의 가스를 환급 받으세요\n(0/?)";
+"Invite %@ friends, get %@ gas rebates everyday!\n(%@/%@)" = "친구를 %@ 명 초대하고，매일 %@ 번 가스를 환급 받으세요\n(%@/%@)";
+"How it works" = "이벤트 규칙";
+"Share Your Invitation Code" = "초대코드 공유하기";
+"Have a referral code?" = " 추천코드 있으세요？";
+"Enter it below to enjoy more free transfer\nand gas rebate!" = "아래 초대코드를 입력하고 무료 거래와\n가스 환급을 받으세요";
+"Invalid invitation code" = "쓸 수 없는 초대코드입니다";
+"Invalid Referral Code" = "쓸 수 없는 추천코드입니다";
+"Unlock Free Transfer" = "무료 거래 진행하기";
+"Referral code applied: %@" = "추천코드 사용하기：%@";
+"Remaining Gas Rebates: %@" = "사용가능한 가스 환급 수：%@";
+"Get Gas Rebates" = "가스 환급받기";
+"100% Gas Rebated" = "100% 가스 환급 됐습니다";
+"Gas fee is ETH transaction fee.\nReceive GSE as rebate for your\ngas fee." = "거래시 ETH가 수수료로 듭니다. GSE로 가스 수수료를 환급 받으세요.";
+"Withdraw GSE" = "GSE 출금하기";
+"GSE from Rebates" = "환급으로 받은 GSE";
+"Destination Wallet" = "입금할 지갑 고르기";
+"Minimum withdrawal: %@ GSE" = "최소 출금 금액 %@ GSE";
+"Withdraw" = "출금";
+"Select Wallet" = "지갑 고르기";
+"My Gas Rebates" = "가스 환급 히스토리";
+"Date" = "날짜";
+"Source" = "출처";
+"Rebate" = "환급";
+"Withdraw Submitted" = "출금 제출됨";
+"Withdraw Failed" = "출금 실패";
+"Wallet Required" = "지갑 고르기";
+"Confirm to withdraw GSE rebates to Wallet %@?" = "GSE를  %@？지갑으로 출금하기";
+"The GSE rebates will be sent to your\nselected wallet address in %@ days" = "GSE 환급액이 %@ 일내 \n지갑 주소로 보내집니다";
+"Rebates will appear after you make transactions" = "거래 후 환급됩니다";
+"I'm using an ETH wallet called GSE Wallet, you should get it because there is no transaction fee (Gas fee) if you use my invitation code %@ to transfer! Download from App Store https://itunes.apple.com/us/app/id1437511476?mt=8" = "현재 ETH지갑인 GSE Wallet 을 사용하고 있어요, 이 추천코드를 사용하시면 거래 수수료가 무료입니다：%@. 앱스토에서 다운받기: https://itunes.apple.com/us/app/id1437511476?mt=8";
+"Gas Rebates Unlocked" = "가스 환급 진행 중 ";
+"Congratulations, you have %@ gas rebates everyday!" = "매일 %@번 가스 환급이 가능합니다！";
+"Enter wallet name" = "지갑 이름 설정";
+"Change Token" = "토큰 고르기";
+"Sharing Economy Reimagined with Blockchain" = "블록체인으로 다시 그리는 공유 경제";

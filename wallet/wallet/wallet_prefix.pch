@@ -1,0 +1,18 @@
+//
+//  wallet_prefix.pch
+//  wallet
+//
+//  Created by user on 24/08/2018.
+//  Copyright © 2018 VeslaChi. All rights reserved.
+//
+
+#ifndef wallet_prefix_pch
+#define wallet_prefix_pch
+
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* wallet_prefix_pch */
+
+#import "GSE_Utils.h"
+#import "Macros.h"

@@ -1,0 +1,270 @@
+/*
+ Localizable.strings
+ wallet
+ 
+ Created by user on 04/10/2018.
+ Copyright © 2018 VeslaChi. All rights reserved.
+ */
+
+
+"Crypto Currency Wallet" = "仮想通貨ウォレット";
+"Manage ERC20 tokens\nInclude major tokens on the market" = "ERC20トークンをはじめとする\n主流の通貨を管理";
+"Asset Safety Guaranteed" = "資産の安全性を保障";
+"Wallet access only belongs to you\nAsset is 100% safe" = "本人以外アクセス不可\n100％安全";
+
+"Easy to Use" = "使いやすい";
+"No geeky design\nEveryone can use blockchain" = "複雑なデザインなどなく\n簡単に使用可能";
+
+"Create Wallet" = "ウォレットの作成";
+"Import Wallet" = "ウォレットのインポート";
+"Please name your wallet" = "ウォレットの名前";
+"Enter wallet password" = "パスワード";
+"Enter Wallet Password" = "パスワード";
+"Confirm wallet password" = "パスワードの再入力";
+"at least 6 characters" = "6文字以上";
+" weak " = "弱";
+"strong" = "強";
+"Password" = "パスワード";
+"Agree to " = "同意する";
+"I have read and agree to " = "読んで同意する";
+"Terms & Privacy Policy" = "利用規約＆個人情報管理";
+"Terms & Policy" = "規約＆ポリシー";
+"Continue" = "次へ";
+"Next" = "次へ";
+"Import" = "インポート";
+"Confirm" = "確認";
+"via Mnemonic" = "Mnemonicで";
+"via Private Key" = "プライベートキーで";
+"via Keystore" = "Keystoreで";
+"Please input your mnemonic" = "Mnemonicを入力してください";
+"Please input your mnemonic phrase" = "Mnemonic Phraseを入力してください";
+"Please input your private key" = "プライベートキーを入力してください";
+"Please input your keystore file" = "Keystoreファイルを入力してください";
+"Keystore Password" = "Keystoreパスワード";
+"Invalid Mnemonics" = "Mnemonicが正しくありません";
+"Invalid Private Key" = "プライベートキーが正しくありません";
+"Invalid Keystore" = "Keystoreが正しくありません";
+"OK" = "OK";
+"Address already exists" = "アドレスがすでに存在しています";
+"please import another one" = "別のアドレスを入力してください";
+"Loading..." = "処理中...";
+"loading" = "処理中...";
+"Unlocking..." = "解除中...";
+"Preparing..." = "準備中...";
+"Complete" = "完成";
+"Copied" = "コピーされました";
+"Wallet Address" = "ウォレットアドレス";
+"Success" = "成功";
+"Skip" = "スキップ";
+"Done" = "完了";
+"Back Up Wallet" = "ウォレットをバックアップ";
+"Your Mnemonic Phrase" = "あなたのMnemonic Phraseは";
+"Your Private Key" = "あなたのプライベートキーは";
+"Your Keystore" = "あなたのKeystoreは";
+"Please do not take screenshot!\nWrite down your mnemonic phrase on a paper\nand keep it in a safe place" = "スクリーンショットではなく\nMnemonic Phraseを紙に書いて\n安全な場所に保管してください！";
+"Please do not take screenshot!\nWrite down your private key on a paper\nand keep it in a safe place" = "スクリーンショットではなく\nプライベートキーを紙に書いて\n安全な場所に保管してください！";
+"Please do not take screenshot!\nWrite down your keystore file on a paper\nand keep it in a safe place" = "スクリーンショットではなく\nKeystore fileを紙に書いて\n安全な場所に保管してください";
+"  Transfer" = "  送金";
+"  Receive" = "  受け取り";
+"Could not find transactions\nMaybe it's on da moon..." = "取引が不明です";
+"Please try again later" = "しばらくしてからもう一度やり直してください";
+"Something Wrong" = "エラーが発生しました";
+"Please use another wallet name" = "別の名前を使用してください";
+"Wallet name already exists" = "そのウォレット名はすでに存在しています";
+"Please agree to Terms & Privacy Policy" = "利用規約＆個人情報管理に同意してください";
+"Agreement Required" = "同意が必要です";
+"Please input the same password to confirm" = "同じパスワードを記入してください";
+"Passwords don't match" = "パスワードが一致しません";
+"Please input the password with at least 6 characters" = "パスワードは最低6文字必要です";
+"Password Length Required" = "パスワードの長さが足りません";
+"Please input a wallet name and it should not be empty" = "ウォレット名を記入してください";
+"Wallet Name Needed" = "ウォレット名は必須です";
+"Please input the same password to confirm" = "同じパスワードを記入してください";
+"Confirm wallet password" = "パスワードを確認してください";
+
+"Wallet" = "ウォレット";
+"Settings" = "設定";
+"Others" = "その他";
+"Cancel" = "キャンセル";
+"Back up Current Wallet" = "ウォレットをバックアップ";
+"Rename Current Wallet" = "ウォレットの名前を変更";
+"Delete Current Wallet" = "ウォレットを削除";
+
+"About" = "GSEとは";
+"Feedback / Support" = "フィードバック/サポート";
+
+"Export Mnemonic Phase" = "Mnemonic Phaseのエクスポート";
+"Export Keystore" = "Keystoreのエクスポート";
+"Export Private Key" = "プライベートキーのエクスポート";
+
+"Total Assets" = "合計資産";
+"My Wallets" = "マイウォレット";
+
+"Current Wallet Address" = "ウォレットアドレス";
+"Current Wallet Name" = "ウォレット名";
+"Enter New Name" = "新しい名前を記入";
+"Rename" = "名前を変更";
+"Renamed" = "名前が変更されました";
+"Rename Wallet" = "ウォレット名を変更";
+
+"Enter the transfer amount" = "送金する数量を記入";
+"Enter the destination address" = "送金先のアドレスを記入";
+
+"Share" = "シェア";
+"Transfer" = "送金";
+"Receive" = "受け取り";
+"Tokens" = "トークン";
+
+"You are about to back up wallet with keystore. Keystore gives you full access to a wallet and all its assets with a password." = "您即将用 Keystore 来备份您的钱包。Keystore 相当于钱包的凭证，可以凭密码取得管理钱包和动用资产的全部权限。";
+
+"You are about to back up wallet with private key. Private key gives you full access to a wallet and all its assets." = "您即将用私钥来备份您的钱包。私钥相当于钱包的密码，可以取得管理钱包和动用资产的全部权限。";
+
+"You are about to back up wallet with mnemonics. Mnemonics give you full access to a wallet and all its assets." = "您即将用助记词来备份您的钱包。助记词相当于钱包的密码，可以取得管理钱包和动用资产的全部权限。";
+
+"You are about to remove the current\nwallet from this device. Please\nconfirm with your wallet password" = "您将从此设备移除当前的钱包，请输入密码进行确认，注意删除后将无法还原";
+
+"Network Error" = "ネットワークエラー";
+"Invalid Password" = "パスワードが違います";
+"Invalid gasPrice" = "gasPrice が違います";
+"Invalid gasLimit" = "gasLimit が違います";
+"Invalid Transfer Address" = "アドレスが間違っています";
+"Invalid Transfer Amount" = "数量が間違っています";
+"Invalid Contract Address" = "コントラクトアドレスが間違っています";
+
+"Deleted" = "削除されました";
+"Account will be locked for 1 hour after 5 failed attemps" = "5回間違えますと1時間アカウントロック状態になります";
+"Retry" = "再試行";
+"Delete Wallet" = "ウォレットの削除";
+"Balance %@" = "残高 %@";
+"Choose Token" = "通貨を選択";
+"Transaction Fee" = "取引手数料";
+"Fee" = "手数料";
+"From" = "送り元";
+"To" = "送り先";
+"From " = "送り元";
+"To " = "送り先";
+"Time" = "時間";
+"Status" = "ステータス";
+"Reference" = "引用";
+"TxHash" = "TxHash";
+"Go Etherscan" = "Etherscanで確認";
+"Current market price" = "現在の市場価格";
+"Slow" = "遅";
+"Fast" = "速";
+"Amount" = "数量";
+"QRCode Scan" = "QRコードスキャン";
+"Put the QR code in the middle of the camara" = "カメラの中心にQRコードをかざしてください";
+"Send" = "発送";
+"Sending..." = "発送中...";
+"Transaction Failed" = "取引失敗";
+"Transaction Confirmation" = "取引確認";
+"The Decentralized Trust Network for Sharing Economies" = "シェアリンエコノミーの分散型信用ネットワーク";
+"Official Site" = "ホームページURL";
+"Telegram" = "テレグラム";
+"Twitter" = "Twitter";
+"WeChat" = "WeChat";
+"WeChat " = "Wechat ID";
+"Should you need any assistance or have any feedback, please email us at" = "お問い合わせやフィードバックに関してはこちらから";
+"Feedback from GSE Wallet" = "GSE Walletからのフィードバック";
+"Version" = "バージョン";
+"FAQ:" = "FAQ：";
+"Created" = "作成成功";
+"Transaction Details" = "取引情報";
+"Fee Estimation" = "推定手数料";
+"Address Text" = "アドレステキスト";
+"Address QRCode" = "アドレスQRコード";
+"Confirmation" = "取引確認";
+"Transaction Confirmed" = "取引が確認できました";
+
+" years " = "年";
+" year " = "年";
+" months " = "月";
+" month " = "月";
+
+" days " = "日";
+" day " = "日";
+
+" hours " = "時間";
+" hour " = "時間";
+
+" minutes " = "分間";
+" minute " = "分間";
+
+"Just now" = "先ほど";
+"ago" = "前に";
+
+"days" = "日";
+"day" = "日";
+
+"hrs" = "時間";
+"hr" = "時間";
+
+"mins" = "分間";
+"min" = "分間";
+
+"Info" = "詳細";
+"if you have any problem, write down below." = "問題などに関しては下記に記入お願いします";
+"Insufficient ETH balance" = "ETHの残高が不足";
+"Insufficient %@ balance" = "%@ の残高が不足";
+"Open WeChat" = "WeChatを開く";
+"Save QRCode to Album" = "QRコードをアルバムに保存";
+"Copy TxHash" = "TxHashをコピー";
+"Pending" = "ペンディング";
+"Failed" = "失敗";
+"insufficient funds for gas * price + value" = "ETHの残高が不足";
+"insufficient funds for gas * price" = "ETHの残高が不足";
+"Block Confirmations" = "ブロックコンファメーション";
+"Dropped" = "破棄されました";
+"Sent" = "送信されました";
+
+"%@ Txn Success @ %@" = "%@取引成功@%@";
+"%@ Txn Success" = "%@取引成功";
+"%@ Transaction Success" = "%@取引成功";
+"Transaction Success: %@" = "取引成功：%@";
+"Txn Success: %@" = "取引成功：%@";
+"%@ Transfered Successfully @ %@" = "%@取引成功@%@";
+"%@ Transfered Successfully" = "%@取引成功";
+
+"Nonce" = "取引 Nonce";
+
+"Gas Rebate" = "手数料キックバックキャンペーン";
+"GSE from Rebate" = "キックバックで得るGSE";
+"WITHDRAW" = "  引き出し    ";
+"History" = "履歴";
+"Send Your Friends Gas Rebate" = "友達をキックバックキャンペーンに招待";
+"Invite 2 friends, get 2 gas rebates everyday!\n(0/?)" = "友達を2人招待して毎日2回手数料をキックバック！\n(0/?)";
+"Invite %@ friends, get %@ gas rebates everyday!\n(%@/%@)" = "友達%@ 人招待して，毎日 %@ 手数料のキックバックを得よう！\n(%@/%@)";
+"How it works" = "ルール";
+"Share Your Invitation Code" = "招待コードをシェア";
+"Have a referral code?" = "招待コードを持っている場合";
+"Enter it below to enjoy more free transfer\nand gas rebate!" = "下記に記入してさらに多くの\n手数料キックバックをゲット！";
+"Invalid invitation code" = "招待コードが無効";
+"Invalid Referral Code" = "招待コードが無効";
+"Unlock Free Transfer" = "無料送金をアンロック";
+"Referral code applied: %@" = "招待コードが適用されました：%@";
+"Remaining Gas Rebates: %@" = "手数料キックバックの残数：%@";
+"Get Gas Rebates" = "手数料キックバックを取得";
+"100% Gas Rebated" = "手数料が100％キックバックされました";
+"Gas fee is ETH transaction fee.\nReceive GSE as rebate for your\ngas fee." = "取引手数料はETHの取引手数料になります。\n手数料のキックバックとしてGSEを取得します。";
+"Withdraw GSE" = "GSEを引き出す";
+"GSE from Rebates" = "現在キックバックされたGSEは";
+"Destination Wallet" = "受取先ウォレット";
+"Minimum withdrawal: %@ GSE" = "最低限度額%@ GSE";
+"Withdraw" = "引き出す";
+"Select Wallet" = "ウォレットを選択";
+"My Gas Rebates" = "手数料キックバック";
+"Date" = "日にち";
+"Source" = "ソース";
+"Rebate" = "キックバック";
+"Withdraw Submitted" = "リクエストが送信されました";
+"Withdraw Failed" = "取引が失敗しました";
+"Wallet Required" = "ウォレットが必要です";
+"Confirm to withdraw GSE rebates to Wallet %@?" = "GSEをウォレット%@に引き出しますか？";
+"The GSE rebates will be sent to your\nselected wallet address in %@ days" = "GSEは%@日後に指定先のウォレットに送金されます";
+"Rebates will appear after you make transactions" = "取引を行うとキックバックが表示されます";
+"I'm using an ETH wallet called GSE Wallet, you should get it because there is no transaction fee (Gas fee) if you use my invitation code %@ to transfer! Download from App Store https://itunes.apple.com/us/app/id1437511476?mt=8" = "私のETHウォレットはGSEウォレット！取引手数料が無料になる招待コードは：%@　アプリはこちらからダウンロード https://itunes.apple.com/us/app/id1437511476?mt=8";
+"Gas Rebates Unlocked" = "手数料のキックバックキャンペーンに参加しました";
+"Congratulations, you have %@ gas rebates everyday!" = "おめでとうございます！毎日 %@ の取引手数料がキックバックされます！";
+"Enter wallet name" = "ウォレットの名前";
+"Change Token" = "通貨を選択";
+"Sharing Economy Reimagined with Blockchain" = "ブロックチェーンを駆使した新たなシェアリングエコノミー";
